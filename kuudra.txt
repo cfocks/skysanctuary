@@ -1,0 +1,8 @@
+# Kuudra
+Basic: **5m**
+Hot: **9m**
+Fiery: **10m**
+Burning: **15m**
+Infernal: **30m**
+## Discounts
+**50%** off all carries under 4m and **25%** off everything else for guild members

@@ -1,0 +1,16 @@
+# Dungeons
+F1-F5 (comp): **200k**
+F1-F5 (S): **400k**
+F6 (comp): **500k**
+F6 (S): **750k**
+F7 (comp): **3.5m**
+F7 (S): **6m**
+M1 (S): **750k**
+M2 (S): **1.75m**
+M3 (S): **3m**
+M4 (comp): **12m**
+M5 (S): **5m**
+M6 (S): **6m**
+M7 (S): **28m**
+## Discounts
+**50%** off all carries under 4m and **25%** off everything else for guild members
